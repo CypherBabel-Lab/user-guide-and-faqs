@@ -1,4 +1,4 @@
-# BITOBRIDGE TESTNET Q\&A
+# BitoBridge Testnet Q\&A
 
 ## Q1. How to use the BitoBridge Testnet?
 
