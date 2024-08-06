@@ -5,3 +5,4 @@
 * [FAQs](faqs/README.md)
   * [BitoBridge](faqs/bitobridge.md)
     * [BitoBridge Testnet Q\&A](faqs/bitobridge/bitobridge-testnet-q-and-a.md)
+    * [BitoBridge Testnet Engagement Campaign](faqs/bitobridge/bitobridge-testnet-engagement-campaign.md)
