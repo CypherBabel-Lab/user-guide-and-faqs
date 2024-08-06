@@ -16,3 +16,10 @@ The bridge from BTC to another blockchain, e.g., Ethereum, consists of two perio
 2. Target chain confirmation: the period varies depending on the target chain.
 
 Please be patient. The transaction status will be updated in the 'Bridging History' table.
+
+## Q3. Why does it show 'Insufficient BTC UTXO' when signing with Unisat wallet?
+
+\
+A3.
+
+This usually happens when the balance is lower than the "bridge amount + gas fee." Try to reserve enough gas in your wallet to ensure the transaction goes smoothly.
