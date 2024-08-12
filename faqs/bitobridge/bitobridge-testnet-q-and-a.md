@@ -35,3 +35,7 @@ A6. If you use Internet Identity, you will experience a short valid connection p
 For the Plug wallet, there are inherent issues that we cannot solve.
 
 We plan to integrate more IC wallets to mitigate the wallet UX issue.
+
+## Q7. Does the Bitomni bridge support other tokens on ICP for bridging?
+
+A7: BitoBridge can support any ICRC1/ICRC2 token, meaning all the IC tokens. They are not shown on the testnet since we do not have their test tokens. However, they will be there on the mainnet.
