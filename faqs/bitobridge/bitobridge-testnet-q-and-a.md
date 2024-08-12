@@ -38,4 +38,4 @@ We plan to integrate more IC wallets to mitigate the wallet UX issue.
 
 ## Q7. Does the Bitomni bridge support other tokens on ICP for bridging?
 
-A7: BitoBridge can support any ICRC1/ICRC2 token, meaning all the IC tokens. They are not shown on the testnet since we do not have their test tokens. However, they will be there on the mainnet.
+A7: BitoBridge can support any ICRC1/ICRC2 token, meaning all the IC tokens. They are not shown on the testnet since we do not have their test tokens. However, they will be on the mainnet.
