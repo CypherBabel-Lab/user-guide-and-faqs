@@ -6,6 +6,7 @@
   * [Supported Chains and Tokens](testnet-v2/supported-chains-and-tokens.md)
   * [Wallet Manager](testnet-v2/wallet-manager.md)
   * [Wallet Balance Panel](testnet-v2/wallet-balance-panel.md)
+  * [Claim Test Tokens](testnet-v2/claim-test-tokens.md)
 * [FAQs](faqs/README.md)
   * [BitoBridge Testnet](faqs/bitobridge-testnet.md)
   * [BitoBridge Testnet Engagement Campaign](faqs/bitobridge-testnet-engagement-campaign.md)

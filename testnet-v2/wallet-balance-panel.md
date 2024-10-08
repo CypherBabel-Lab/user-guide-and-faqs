@@ -22,7 +22,6 @@ The Wallet Balance panel, located on the left side of the main page, provides a 
 
 • bitoTESTBTC.arb: A testnet token representing Bitcoin on Arbitrum, used within BitoBridge.
 
-\
 
 
 This panel allows you to view your current balances at a glance, making it easier to manage cross-chain transactions between networks.

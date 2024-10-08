@@ -13,5 +13,5 @@
 
 ## Supported Tokens
 
-* TESTBTC
-* TESTBITO
+* TESTBTC (tBTC)
+* TESTBITO (ICRC2 token)
