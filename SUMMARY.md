@@ -7,6 +7,7 @@
   * [Wallet Manager](testnet-v2/wallet-manager.md)
   * [Wallet Balance Panel](testnet-v2/wallet-balance-panel.md)
   * [Claim Test Tokens](testnet-v2/claim-test-tokens.md)
+  * [Bridge Tokens](testnet-v2/bridge-tokens.md)
 * [FAQs](faqs/README.md)
   * [BitoBridge Testnet](faqs/bitobridge-testnet.md)
   * [BitoBridge Testnet Engagement Campaign](faqs/bitobridge-testnet-engagement-campaign.md)
