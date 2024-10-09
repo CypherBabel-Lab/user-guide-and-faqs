@@ -10,11 +10,11 @@ The Wallet Balance panel, located on the left side of the main page, provides a 
   * cKTESTBTC: The testnet version of ckBTC, a token representing Bitcoin on the ICP network.
   * TESTBITO: The testnet version of BitoBridge’s token on ICP.
 
-2\. Bitcoin Blockchain:
+**2. Bitcoin Blockchain**
 
 • Displays your balance of TESTBTC, which is the testnet version of Bitcoin used within BitoBridge for testing purposes.
 
-3\. Arbitrum Chain:
+**3. Arbitrum Chain**
 
 • Displays balances for tokens on the Arbitrum chain, such as:
 
